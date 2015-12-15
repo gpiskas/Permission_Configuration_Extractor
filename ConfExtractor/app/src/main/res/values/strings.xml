@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ConfExtractor</string>
+    <string name="test">Run Test\nSee logcat for output</string>
+    <string name="settings">Apps Settings</string>
+</resources>
