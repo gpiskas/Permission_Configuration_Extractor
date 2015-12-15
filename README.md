@@ -1,12 +1,12 @@
 # Permission Configuration Extractor
 An Android tool which is primarily used to extract the permission configuration of installed apps.
 
-This repo contains the whole Android Studio project.\
-Documentation is available under the doc directory.\
+This repo contains the whole Android Studio project.  
+Documentation is available under the doc directory.  
 Example output is available in logcat.log.
 
 
-The following example is the current permission configuration of the com.android.camera package.\
+The following example is the current permission configuration of the com.android.camera package.  
 Information provided: status of permission, protection level, permission group and name.
 ```
 PKG: com.android.camera
